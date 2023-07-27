@@ -2,7 +2,7 @@
 
 A film review site using html! 🍿🎞️
 
-![1233](https://github.com/metinardakantarci/html_movie_review/assets/55920692/4075e4fe-b15e-4d16-89f8-a1b7d4d075d1)
+![Ekran görüntüsü 2023-07-27 123635](https://github.com/metinardakantarci/html_movie_review/assets/55920692/60f8dc5c-38db-45b8-90ce-8a8b7ed53994)
 ![123](https://github.com/metinardakantarci/html_movie_review/assets/55920692/f968b7e4-38d8-4b57-9813-63aba7cfc316)
 
 <p align="center">
